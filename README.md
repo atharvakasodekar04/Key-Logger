@@ -31,5 +31,4 @@ The KeyLogger project is a simple JavaScript-based mini project designed to capt
 2. **CSS:** The `style.css` file provides the styling to make the interface clean and visually appealing.
 3. **JavaScript:** The `index.js` file adds event listeners to the buttons and captures the `keypress` events, updating the display area with the logged keys.
 
-## Usage
 
