@@ -4,7 +4,7 @@
 
 The KeyLogger project is a simple JavaScript-based mini project designed to capture and log user keystrokes in real-time. This project is useful for educational purposes or for debugging keyboard input in web applications.
 
-![KeyLogger Screenshot](https://github.com/your-username/keylogger-project/Demo.png)
+![KeyLogger Screenshot](https://github.com/atharvakasodekar04/Key-Logger/blob/master/Demo.png)
 
 ## Features
 
